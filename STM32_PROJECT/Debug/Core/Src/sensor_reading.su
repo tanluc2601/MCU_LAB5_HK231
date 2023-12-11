@@ -1,0 +1,2 @@
+sensor_reading.c:10:6:uart_communication_fsm	8	static
+sensor_reading.c:38:6:readSensor	64	static

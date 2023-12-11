@@ -1,0 +1,5 @@
+cmd_parser.c:21:6:command_parser_fsm	8	static
+cmd_parser.c:68:6:updateBuffer	24	static
+cmd_parser.c:82:6:clearBuffer	16	static
+cmd_parser.c:89:9:isRSTCmd	16	static
+cmd_parser.c:97:9:isOKCmd	16	static
